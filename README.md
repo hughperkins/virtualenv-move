@@ -9,6 +9,6 @@ Moves a python virtualenv
 
 ## To use:
 ```
-curl https://github.com/hughperkins/virtualenv-move/move_virtualenv.sh | bash [olddir] [newdir]
+curl https://raw.githubusercontent.com/hughperkins/virtualenv-move/master/move_virtualenv.sh | bash -s [olddir] [newdir]
 ```
 
